@@ -1,0 +1,10 @@
+github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
+github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
+github.com/facebookgo/httpcontrol v0.0.0-20150708234001-ccde4420e1fe h1:lROXMXiVykPnYQwN/ZqlUlnzq/hTqZ6PiI+IZ7dOVbA=
+github.com/facebookgo/httpcontrol v0.0.0-20150708234001-ccde4420e1fe/go.mod h1:RHhThlTAK1q74hnQuU/XB53XxTRDYxfAfHvDQ3JU9ys=
+github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc h1:f8eY6cV/x1x+HLjOp4r72s/31/V2aTUtg5oKRRPf8/Q=
+github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc/go.mod h1:FecbI9+v66THATjSRHfNgh1IVFe/9kFxbXtjV0ctIMA=
+github.com/launchdarkly/eventsource v0.0.0-20181003171144-b52bd572a58e h1:z4x8VXFIHFs0dWKjRsPS1rsx5j2LkLdaNE1yD0S0xo8=
+github.com/launchdarkly/eventsource v0.0.0-20181003171144-b52bd572a58e/go.mod h1:y6+/PY1Az/AQyjCMsFt5mOZq1tfM0/KOQRS4f0pVe3M=
+gopkg.in/launchdarkly/go-client.v4 v4.0.0-20190503234820-391c592cd5af h1:WdOLfPGRUce8dq8z+BnBfFhHwzshS1RuoWkg9UNUieo=
+gopkg.in/launchdarkly/go-client.v4 v4.0.0-20190503234820-391c592cd5af/go.mod h1:fiSRVbGWku1lgj8903oid21aweCLTv8x1XpBpMLrULI=
